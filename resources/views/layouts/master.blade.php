@@ -83,7 +83,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <a href="#" class="nav-link active">
               <i class="fas fa-tachometer-alt"></i>
               <p>
-                Starter Pages
+                Dashboard
                 <i class="right fa fa-angle-left"></i>
               </p>
             </a>
@@ -104,10 +104,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fa fa-th"></i>
+              <i class="fas fa-power-off"></i>
               <p>
-                Simple Link
-                <span class="right badge badge-danger">New</span>
+                Logout
+                {{-- <span class="right badge badge-danger">New</span> --}}
               </p>
             </a>
           </li>
